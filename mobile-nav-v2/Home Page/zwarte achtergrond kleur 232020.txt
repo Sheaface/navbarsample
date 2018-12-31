@@ -1,0 +1,1 @@
+de kleurcode van de donkere achtergrond mocht een gradient niet gebruikt kunnen worden is: 232020
